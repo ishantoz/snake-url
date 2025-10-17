@@ -6,6 +6,12 @@ This is how the game should look:
 
 ![Pro level gameplay](gameplay.gif)
 
+## Demo
+
+[🎮 Play Snake URL Online](https://ishantoz.github.io/snake-url/)
+
+Click the link above to play the game directly in your browser!
+
 Note that the game might be unplayable on some browsers for different reasons, like the browser not showing the full URL, or not allowing it to change so frequently, or escaping the Braille characters used to display the game.
 
 ## How to Play
